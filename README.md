@@ -21,7 +21,7 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 
 **Operating Systems:** Windows 7/10, Linux, Cisco IOS
 
-**Programming Languages: **C++, C, Python
+**Programming Languages:** C++, C, Python
 
 **DevOps Tools:** GIT, GitHub, Terraform, Ansible, Jenkins
 

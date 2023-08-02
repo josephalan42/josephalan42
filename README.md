@@ -2,13 +2,13 @@
   <h1>Welcome to Joseph Alan's Profile!</h1>
 </div>
 
-🧑‍💻 About Me
+🧑‍💻** About Me**
 Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, specializing in cloud security, CTF challenges, reverse engineering, malware analysis, and phishing analysis. Passionate about securing cloud environments and exploring cybersecurity challenges through CTFs, I continuously strive to enhance my skills and contribute to a more secure digital landscape.
 
-🌟 CTF Write-Ups & CrackMe Write-Ups
-- Medium - https://medium.com/@josephalan17201972
+🌟 **CTF Write-Ups & CrackMe Write-Ups**
+**- Medium -** https://medium.com/@josephalan17201972
 
-🏆 CERTIFICATIONS
+🏆 **CERTIFICATIONS**
 
 - AWS Certified Solutions Architect Professional
 - AWS Certified Sysops Administrator Associate (While Labs were still active)
@@ -17,7 +17,7 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 - Azure Administrator Associate AZ-104
 - PNPT by TCM (in-view)
 
-🚀 Skills
+🚀 **Skills**
 
 **Operating Systems:** Windows 7/10, Linux, Cisco IOS
 
@@ -47,8 +47,8 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 
 **Network Tools:** Wireshark, Packet Tracer
 
-## 📫 Contact Me
-- Email: josephalan17201972@gmail.com
-- LinkedIn: www.linkedin.com/in/joseph-alan
-  
-Let's connect and collaborate on exciting projects together!
+📫 **Contact Me**
+**- Email:** josephalan17201972@gmail.com
+**- LinkedIn:** www.linkedin.com/in/joseph-alan
+**  
+Let's connect and collaborate on exciting projects together!**

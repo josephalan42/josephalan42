@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing & IaC
 - 🌱 I’m currently learning IaC
 - 📫 How to reach me josephalan17201972@gmail.com
-- <script src="https://tryhackme.com/badge/1642008"></script>
+ <script src="https://tryhackme.com/badge/1642008"></script>
 
 <!---
 josephalan42/josephalan42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

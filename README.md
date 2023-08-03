@@ -11,7 +11,7 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 
 
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/josephalan172019.png" alt="TryHackMe">
 
 
 🏆 **CERTIFICATIONS**

@@ -9,7 +9,7 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 🌟 **CTF Write-Ups & CrackMe Write-Ups**
 **- Medium -** https://medium.com/@josephalan17201972
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/josephalan172019.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/josephalan172019.pn" alt="TryHackMe">
 
 
 🏆 **CERTIFICATIONS**

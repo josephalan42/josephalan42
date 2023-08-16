@@ -6,10 +6,13 @@
 
 Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, specializing in cloud security, CTF challenges, reverse engineering, malware analysis, and phishing analysis. Passionate about securing cloud environments and exploring cybersecurity challenges through CTFs, I continuously strive to enhance my skills and contribute to a more secure digital landscape.
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/josephalan172019.png" alt="TryHackMe">
+
+
 🌟 **CTF Write-Ups & CrackMe Write-Ups**
 **- Medium -** https://medium.com/@josephalan17201972
 
-<script src="https://tryhackme.com/badge/1642008"></script>
+
 
 
 🏆 **CERTIFICATIONS**

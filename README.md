@@ -10,7 +10,7 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 
 
 🌟 **CTF Write-Ups & CrackMe Write-Ups**
-**- Medium -** https://medium.com/@josephalan17201972
+**- Medium -** https://medium.com/@josephalan17201972 -DO CHECKOUT!!-
 
 
 

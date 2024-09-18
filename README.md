@@ -4,7 +4,7 @@
 
 🧑‍💻**About Me**
 
-Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, specializing in cloud security, CTF challenges, reverse engineering, malware analysis, and phishing analysis. Passionate about securing cloud environments and exploring cybersecurity challenges through CTFs, I continuously strive to enhance my skills and contribute to a more secure digital landscape.
+Hi there! I'm Joseph Alan J, Masters of Science in Cybersecurity Student at Penn State University with previous work experience as a Cloud Security Engineer, and AWS enthusiast, specializing in cloud security, CTF challenges, reverse engineering, malware analysis, and phishing analysis. Passionate about securing cloud environments and exploring cybersecurity challenges through CTFs, I continuously strive to enhance my skills and contribute to a more secure digital landscape.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/josephalan42.png" alt="TryHackMe">
 
@@ -12,6 +12,7 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 **- Medium -** https://medium.com/@josephalan17201972 -DO CHECKOUT!!
 
 **HACKTHEBOX Seasonal 3 Rank - 95**
+**HACKTHEBOX Seasonal 4 Rank - 69**
 
 
 
@@ -23,7 +24,8 @@ Hi there! I'm Joseph Alan J, a Cloud Security Engineer, and AWS enthusiast, spec
 - CompTIA CySA+
 - AWS Certified Solutions Architect Associate
 - Azure Administrator Associate AZ-104
-- PNPT by TCM (in-view)
+- PNPT by TCM
+- HackTheBox CDSA (in-view)
 
 🚀 **Skills**
 

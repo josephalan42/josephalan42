@@ -25,7 +25,7 @@ Hi there! I'm Joseph Alan J, Masters of Science in Cybersecurity Student at Penn
 - AWS Certified Solutions Architect Associate
 - Azure Administrator Associate AZ-104
 - PNPT by TCM
-- HackTheBox CDSA (in-view)
+- Cisco Certified Network Associate CCNA 200-301
 
 🚀 **Skills**
 

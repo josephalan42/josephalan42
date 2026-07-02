@@ -4,7 +4,7 @@
 
 🧑‍💻**About Me**
 
-Hi there! I'm Joseph Alan J, Masters of Science in Cybersecurity Student at Penn State University with previous work experience as a Cloud Security Engineer, and AWS enthusiast, specializing in cloud security, CTF challenges, reverse engineering, malware analysis, and phishing analysis. Passionate about securing cloud environments and exploring cybersecurity challenges through CTFs, I continuously strive to enhance my skills and contribute to a more secure digital landscape.
+Hi there! 👋 I'm Joseph Alan J, a Network Engineer and Cybersecurity professional passionate about Cisco & Juniper networking, AWS, Python automation, and network security. I enjoy building reliable infrastructure, automating operational tasks, and exploring new technologies through hands-on projects.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/josephalan42.png" alt="TryHackMe">
 
